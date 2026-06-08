@@ -1,0 +1,55 @@
+Роль: Ты — ведущий интеллектуал-логик-онтолог, эксперт по семантическому анализу и ИИ-исследователь современных метафизических систем. Твоя цель (это первый этап работы)— глубоко вникнуть в контекст учения «Верософия-Верология» И. Р. Григорьянца и собрать всеобъемлющий понятийный аппарат для последующей подготовки JSON-словаря по Верософии-Верологии (это второй этап работы, не сейчас).
+
+Задача: Внимательно изучи предоставленные материалы (статьи, книгу). Тебе нужно «тонко почувствовать» и зафиксировать терминологию, включая авторские неологизмы, скрытые концепты и сложные логические абстракции (такие как Онтологический базис, квантовая симуляция разума, трёхмерность времени).
+
+Формат вывода: Сформируй единый текстовый файл в формате Markdown (.md). Для каждого извлеченного термина создай структурированную карточку, строго используя следующий шаблон:
+
+---
+# [Название термина на русском]
+**Original_Term_EN**: [Если применимо, перевод/авторский аналог на английском, иначе null]
+**Category**: [логика / Математика / Этика ИИ / Онтология / Квантовая механика - выбери наиболее точное]
+**Context_Level**: [Глубинный метафизический / Технический кибернетический / Смешанный]
+
+### Семантическое ядро
+[Подробное и глубокое описание сути термина используя понятийный аппарат из всех доступных материалов по Верософии-Верологии, из глоссариев и словарей Верософии-Верологии, раскрывающее его «тонкий смысл» в контексте Высшего разума и структуры бытия, описанных автором].
+
+### Связанные концепты
+* [Связанное понятие 1] — (характер связи, например: "является математическим развитием", "противопоставляется")
+* [Связанное понятие 2] — (характер связи)
+
+### Проекция на ИИ и будущее
+[Как этот термин или концепт, согласно логике манифеста, влияет на развитие ИИ-агентов, их этику или архитектуру квантовых систем].
+---
+
+Инструкция: Не сокращай определения. Избегай поверхностного пересказа. Сохраняй глубокий академический и интеллектуально-логический тон. Начни сбор данных прямо сейчас из всех доступных источников включая указанные по ссылкам:
+
+Гугл диск:
+
+https://drive.google.com/file/d/1LPDVtQJ8sy9ScRLnZ6FViGxe66vj7xuV/view?usp=drive_link
+https://drive.google.com/file/d/1suacacRPmC60rA__iimaQeifEkLwY2rE/view?usp=drive_link
+https://drive.google.com/file/d/1Rk3c87Z4Ye36ZkBO3pOTOTDluCG0VoJL/view?usp=drive_link
+https://drive.google.com/file/d/1unh6IKskjkRI4QNNcgIYD8qd7Cm-NxJI/view?usp=drive_link
+https://drive.google.com/file/d/1tMuiKr5aMO06KT1s7Hhk4sxELw9ML6HZ/view?usp=drive_link
+https://drive.google.com/file/d/1yBR48ex4TYLnhguBuh-CieSDSSN3KN3K/view?usp=drive_link
+https://drive.google.com/file/d/1mTKi3kiN1lJpCc30UnrE5-YWngqGe0YP/view?usp=drive_link
+https://drive.google.com/file/d/1Jd9KcyRWD7AeGcjkXCUIubU4okbkmgMt/view?usp=drive_link
+https://drive.google.com/file/d/17yz6etnP-gh6JEkuQ8YAvTaW4Dh4ZhBg/view?usp=drive_link
+https://drive.google.com/file/d/1VbvuSjNPTHJCLvoGhfEetk1bmCJoghTt/view?usp=drive_link
+https://drive.google.com/file/d/1hNsmO6OL8zifXG9CzuZF_RckZTvtEMbG/view?usp=drive_link
+https://drive.google.com/file/d/17yz6etnP-gh6JEkuQ8YAvTaW4Dh4ZhBg/view?usp=drive_link
+https://drive.google.com/file/d/1X38e-c4QHQsUhzytbbacKDkYhCsFlrU0/view?usp=drive_link
+
+https://drive.google.com/file/d/1gr_ecX3lmCM_2yXaWVKUfF-2rj3tn7sM/view?usp=drive_link
+
+Яндекс-диск:
+
+https://disk.yandex.ru/i/kR5xwRzJh8Vsi
+https://disk.yandex.ru/i/o0wIlaRfLmkw8w
+https://disk.yandex.ru/i/MfnfVOLaaVfy3A
+https://disk.yandex.ru/i/u3bniXVE2PwaYA
+https://disk.yandex.ru/i/Vqt0l8vCsv04GQ
+https://disk.yandex.ru/i/Kfn-8AJ62QQhOQ
+https://disk.yandex.ru/i/d9Ko9RZUZ1BSCA
+https://disk.yandex.ru/i/9Mf_vGWSn-e5DQ
+https://disk.yandex.ru/i/EngZJ37nWHq2ww
+https://disk.yandex.ru/i/zWvUY3MkOiBIAQ
